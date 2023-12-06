@@ -1,0 +1,99 @@
+[
+  {
+    "title": "Joke Generator",
+    "imageSrc": "projects/joke.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://randomjokesgenra.netlify.app/",
+    "source": "https://github.com/chakrinya009/dev-min/tree/main/RandomJokes"
+  },
+  {
+    "title": "Ecommerce",
+    "imageSrc": "projects/ecommerce.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://ecomerce-chakri.netlify.app/",
+    "source": "https://github.com/chakrinya009/Frontend-projects/tree/main/ecommerce-"
+  },
+   {
+    "title": "Password Generator",
+    "imageSrc": "projects/passwordGenerator.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://newpasswordgen.netlify.app/",
+    "source": "https://github.com/chakrinya009/dev-min/tree/main/passwordGenerator"
+  },
+  
+  {
+    "title": "Weather",
+    "imageSrc": "projects/weather.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://chakri-weather.netlify.app/",
+    "source": "https://github.com/chakrinya009/Frontend-projects/tree/main/Weather%20App"
+  },
+    {
+    "title": "Command-line",
+    "imageSrc": "projects/command.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://chakrinya-protfolio.netlify.app//",
+    "source": "https://www.github.com"
+  },
+    {
+    "title": "Todo",
+    "imageSrc": "projects/todo.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://to-do-three-xi.vercel.app/",
+    "source": "https://github.com/chakrinya009/Frontend-projects/tree/main/to-do"
+  },
+    {
+    "title": "Shopvista",
+    "imageSrc": "projects/shopvista.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://shopvista-nine.vercel.app/",
+    "source": "https://github.com/chakrinya009/react-projects/tree/main/shopvista"
+  },
+    {
+    "title": "Movix",
+    "imageSrc": "projects/movix.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://movix-cine.vercel.app/",
+    "source": "https://github.com/chakrinya009/movix"
+  },
+    {
+    "title": "Todo (MERN)",
+    "imageSrc": "projects/mern-todo.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/chakrinya009/to-do"
+  },
+    {
+    "title": "Notehub",
+    "imageSrc": "projects/notehub.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/chakrinya009/NoteHub"
+  },
+    {
+    "title": "FileSharing",
+    "imageSrc": "projects/fileSharing.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/chakrinya009/File-Sharing"
+  },
+    {
+    "title": "Live-Chat",
+    "imageSrc": "projects/chat.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/chakrinya009/Live-Chat"
+  }
+]

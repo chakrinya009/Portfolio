@@ -1,99 +1,103 @@
 [
   {
-    "title": "Joke Generator",
-    "imageSrc": "projects/joke.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["HTML", "CSS", "Javascript"],
-    "demo": "https://randomjokesgenra.netlify.app/",
-    "source": "https://github.com/chakrinya009/dev-min/tree/main/RandomJokes"
-  },
-  {
-    "title": "Ecommerce",
-    "imageSrc": "projects/ecommerce.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["HTML", "CSS", "Javascript"],
-    "demo": "https://ecomerce-chakri.netlify.app/",
-    "source": "https://github.com/chakrinya009/Frontend-projects/tree/main/ecommerce-"
-  },
-   {
-    "title": "Password Generator",
-    "imageSrc": "projects/passwordGenerator.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["HTML", "CSS", "Javascript"],
-    "demo": "https://newpasswordgen.netlify.app/",
-    "source": "https://github.com/chakrinya009/dev-min/tree/main/passwordGenerator"
-  },
-  
-  {
     "title": "Weather",
     "imageSrc": "projects/weather.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "I've developed a weather app with HTML, CSS, and JavaScript, providing instant updates via the OpenWeather API.",
     "skills": ["HTML", "CSS", "Javascript"],
     "demo": "https://chakri-weather.netlify.app/",
     "source": "https://github.com/chakrinya009/Frontend-projects/tree/main/Weather%20App"
   },
     {
-    "title": "Command-line",
-    "imageSrc": "projects/command.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["HTML", "CSS", "Javascript"],
-    "demo": "https://chakrinya-protfolio.netlify.app//",
-    "source": "https://www.github.com"
+    "title": "FileSharing",
+    "imageSrc": "projects/fileSharing.png",
+    "description": "I've created a MERN-based file-sharing app that generates shareable links upon file uploads for easy sharing",
+    "skills": ["MongoDB", "Expressjs", "Reactjs","Nodejs"],
+    "demo": "https://sharingapp-gray.vercel.app",
+    "source": "https://github.com/chakrinya009/File-Sharing"
   },
-    {
+  {
+    "title": "Joke Generator",
+    "imageSrc": "projects/joke.png",
+    "description": "I've developed a joke generator using HTML, CSS, and JavaScript, powered by a joke API for endless laughter on demand.",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://randomjokesgenra.netlify.app/",
+    "source": "https://github.com/chakrinya009/dev-min/tree/main/RandomJokes"
+  },
+   
+  {
+    "title": "Ecommerce",
+    "imageSrc": "projects/ecommerce.png",
+    "description": "I've developed an e-commerce website using HTML, CSS, and JavaScript.",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://ecomerce-chakri.netlify.app/",
+    "source": "https://github.com/chakrinya009/Frontend-projects/tree/main/ecommerce-"
+  },
+   {
     "title": "Todo",
     "imageSrc": "projects/todo.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["HTML", "CSS", "Javascript"],
+    "description": "Developed a dynamic to-do application using React.js for efficient task management .",
+    "skills": ["HTML", "CSS", "Javascript","Reactjs"],
     "demo": "https://to-do-three-xi.vercel.app/",
     "source": "https://github.com/chakrinya009/Frontend-projects/tree/main/to-do"
   },
+   {
+    "title": "Password Generator",
+    "imageSrc": "projects/passwordGenerator.png",
+    "description": "Developed a password generator using HTML, CSS, and JavaScript for creating secure and customizable passwords effortlessly.",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://newpasswordgen.netlify.app/",
+    "source": "https://github.com/chakrinya009/dev-min/tree/main/passwordGenerator"
+  },
+   {
+    "title": "Notehub",
+    "imageSrc": "projects/notehub.png",
+    "description": "Created a NoteHub platform using MERN stack.",
+    "skills": ["MongoDB", "Expressjs", "Reactjs","Nodejs"],
+    "demo": "https://notehub-iota.vercel.app",
+    "source": "https://github.com/chakrinya009/NoteHub"
+  },
+  
+    {
+    "title": "Command-line",
+    "imageSrc": "projects/command.png",
+    "description": "Developed a command-line interface portfolio utilizing HTML, CSS, and JavaScript for a unique and interactive user experience..",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://chakrinya-protfolio.netlify.app//",
+    "source": "https://github.com/chakrinya009/Portfolio/tree/main/Command"
+  },
+    
     {
     "title": "Shopvista",
     "imageSrc": "projects/shopvista.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["HTML", "CSS", "Javascript"],
+    "description": "Developed ShopVista, a React.js and Redux-powered app, with efficient state management.",
+    "skills": ["HTML", "CSS", "Javascript","Reactjs"],
     "demo": "https://shopvista-nine.vercel.app/",
     "source": "https://github.com/chakrinya009/react-projects/tree/main/shopvista"
   },
     {
     "title": "Movix",
     "imageSrc": "projects/movix.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["HTML", "CSS", "Javascript"],
+    "description": "Developed Movix, a dynamic React-based project .",
+    "skills": ["HTML", "CSS", "Javascript","Reactjs"],
     "demo": "https://movix-cine.vercel.app/",
     "source": "https://github.com/chakrinya009/movix"
   },
     {
     "title": "Todo (MERN)",
     "imageSrc": "projects/mern-todo.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["HTML", "CSS", "Javascript"],
-    "demo": "https://www.example.com",
+    "description": "created a todo application using MERN stack and Redux, ensuring efficient task management and seamless state control.",
+    "skills": ["MongoDB", "Expressjs", "Reactjs","Nodejs"],
+    "demo": "https://todo-alpha-olive-48.vercel.app/",
     "source": "https://github.com/chakrinya009/to-do"
   },
-    {
-    "title": "Notehub",
-    "imageSrc": "projects/notehub.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["HTML", "CSS", "Javascript"],
-    "demo": "https://www.example.com",
-    "source": "https://github.com/chakrinya009/NoteHub"
-  },
-    {
-    "title": "FileSharing",
-    "imageSrc": "projects/fileSharing.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["HTML", "CSS", "Javascript"],
-    "demo": "https://www.example.com",
-    "source": "https://github.com/chakrinya009/File-Sharing"
-  },
+   
+   
     {
     "title": "Live-Chat",
     "imageSrc": "projects/chat.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["HTML", "CSS", "Javascript"],
-    "demo": "https://www.example.com",
+    "description": "Developed a real-time chat application using MERN stack integrated with Socket.io for seamless live communication.",
+    "skills": ["MongoDB", "Expressjs", "Reactjs","Nodejs"],
+    "demo": "https://livechatapp-seven.vercel.app",
     "source": "https://github.com/chakrinya009/Live-Chat"
   }
 ]

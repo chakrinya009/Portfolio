@@ -12,11 +12,11 @@ export const Contact = () => {
       </div>
       <ul className={styles.links}>
         <li className={styles.link}>
-          <a href="mailto:chakribala02@gmail.com">
+          <a href="mailto:chakrinyabalabadra@gmail.com">
             <img src={getImageUrl("contact/emailIcon.png")} alt="Email icon" />
           </a>
-          <a className={styles.anc} href="mailto:chakribala02@gmail.com">
-            myemail@email.com
+          <a className={styles.anc} href="mailto:chakrinyabalabadra@gmail.com">
+            chakrinyabalabadra@gmail.com
           </a>
         </li>
         <li className={styles.link}>
@@ -34,7 +34,7 @@ export const Contact = () => {
             href="https://www.linkedin.com/in/chakrinya-balabadra-94814a211/"
             target="_blank"
           >
-            linkedin.com/myname
+            linkedin.com/chakrinya
           </a>
         </li>
         <li className={styles.link}>
@@ -49,7 +49,7 @@ export const Contact = () => {
             href="https://www.github.com/chakrinya009"
             target="_blank"
           >
-            github.com/myname
+            github.com/chakrinya009
           </a>
         </li>
       </ul>

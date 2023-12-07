@@ -8,6 +8,7 @@
   box-shadow: 0 16px 14px 0 #04152d;
   padding: 18px 24px;
   max-width: 345px;
+  transition: all 0.2s ease-in;
 }
 
 .image {
@@ -25,6 +26,24 @@
   font-size: 25px;
   font-weight: 400;
 }
+
+p{
+  display: none;
+  transition: display 5s ease-in;
+  
+}
+
+.container:hover p{
+  display: block;
+  transition: display 5s ease-in;
+  
+}
+
+.container:hover{
+  transform: scale(0.9);
+  transition: all 0.5s ease-in;
+}
+
 
 .skills {
   width: 100%;

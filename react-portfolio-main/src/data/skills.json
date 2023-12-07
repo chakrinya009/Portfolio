@@ -1,5 +1,13 @@
 [
   {
+    "title": "C",
+    "imageSrc": "skills/c.png"
+  },
+  {
+    "title": "c++",
+    "imageSrc": "skills/c++.png"
+  },
+  {
     "title": "HTML",
     "imageSrc": "skills/html.png"
   },
